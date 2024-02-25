@@ -1,4 +1,4 @@
 # demo
 this is my first repository.
 <br>
-Author - Divyansh Jaiswal.
+Author - Divyansh Jaiswal (student).
